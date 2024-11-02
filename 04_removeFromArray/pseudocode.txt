@@ -1,0 +1,6 @@
+
+
+//for each element in the input list
+check the element
+    if the element is not equal to any element in the output list
+    add the element
